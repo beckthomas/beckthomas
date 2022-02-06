@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Beck
-- 👀 I’m interested in many things, for e.g. playing Accoustic Guitar, chordify Music, Programming Music with Sonic Pi, Development with ServiceNow, Learning Python and JavaScript, Building Websites with Wordpress
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in so many things like playing Accoustic Guitar, chordify Music with Chord Pro, Programming Music with Sonic Pi, Development with ServiceNow and Outsystems, Learning Python and JavaScript, Building Websites with Wordpress
+- 🌱 I’m currently learning Python, Azure DevOps and Development with ServiceNow and Outsystems
 - 💞️ I’m looking to collaborate on ChordPro for Guitar Music Sheets
 - 📫 How to reach me: beckthomas1971@googlemail.com
 
